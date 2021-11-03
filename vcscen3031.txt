@@ -2,3 +2,7 @@ Member1: Anthony Zarzana
 Member2: Luke Wilkerson
 
 MEANINGFUL CHANGE (-Luke W.)
+
+git add vcscen3031.txt
+git commit -m "Add vcscen3031.txt"
+git push origin master
